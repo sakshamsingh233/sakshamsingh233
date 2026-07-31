@@ -1,19 +1,16 @@
-# 💫 Hi 👋, I'm Imran Alam
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+# 💫 Hi 👋, I'm Saksham Rathore
+**A passionate Cloud Engineer || DevOps Engineer ||  Admin from India**
 
 Email Me 👉 ✉️ **sakshamsinghrathore499@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 🔭 **I’m currently working on:** LeetCode 
+- 🌱 **I’m currently learning:** DSA , JAVA , FULL STACK DEVELOPMENT 
+- 👯 **I’m looking to collaborate on:** AI MERN WEBSITE
 - 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
+- 📫 **How to reach me:** sakshamsinghrathore499@gmail.com
+- 😄 **Pronouns:** Saksham Rathore
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 ## 🌐 Socials:
